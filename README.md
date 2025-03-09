@@ -1,3 +1,4 @@
+Graph Algorithms Project
 A C++ project implementing Dijkstra's algorithm using custom data structures (graph, min-heap, and stack).
 
 File Structure
@@ -10,13 +11,13 @@ main.h / main.cpp: Main program and instruction processing.
 Compilation
 To compile the project, run:
 
-cpp
+bash
 Copy
 g++ -o PJ3 main.cpp heap.cpp graph.cpp stack.cpp util.cpp -std=c++11
 Usage
 Run the executable as follows:
 
-php-template
+bash
 Copy
 ./PJ3 <InputFile> <GraphType> <Flag>
 InputFile: Path to the graph data file.
