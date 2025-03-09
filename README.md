@@ -17,15 +17,15 @@ To compile the project, run:
 make
 
 ## Usage
------
+
 ./PJ3 INPUT_FILE GRAPH_TYPE FLAG
 
     <InputFile> = Path to the graph data file
     <GraphType> = "DirectedGraph" or "UndirectedGraph"
     <Flag>      = "0" or "1"
 
-Input File Format
-----------------
+## Input File Format
+
 First line: 
     numVertices numEdges
 
