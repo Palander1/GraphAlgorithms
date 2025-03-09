@@ -11,7 +11,6 @@ A C++ project implementing Dijkstra's algorithm using custom data structures (gr
 - **main.h / main.cpp**: Main program and instruction processing.
 
 ## Compilation
-```bash
 g++ -o PJ3 main.cpp heap.cpp graph.cpp stack.cpp util.cpp -std=c++11
 Usage
 bash
