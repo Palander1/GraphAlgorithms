@@ -1,6 +1,6 @@
 # Graph Algorithms Project
 
-A C++ project implementing Dijkstra's algorithm using custom data structures (graph, min-heap, and stack).
+A C++ project implementing Dijkstra's algorithm using custom data structures (graph, min-heap, and stack). Uses g++ compilation.
 
 ## File Structure
 
