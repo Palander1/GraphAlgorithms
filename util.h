@@ -1,5 +1,3 @@
-//Andrew Palmer 1228231669
-
 #ifndef _UTIL_H
 #define _UTIL_H 1
 

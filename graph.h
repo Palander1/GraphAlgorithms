@@ -1,5 +1,3 @@
-//Andrew Palmer 1228231669
-
 #ifndef GRAPH_H
 #define GRAPH_H
 

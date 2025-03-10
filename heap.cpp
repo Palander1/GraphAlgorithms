@@ -1,5 +1,3 @@
-//Andrew Palmer 1228231669
-
 #include "heap.h"
 #include <iostream>
 #include <cmath>

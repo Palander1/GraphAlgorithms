@@ -1,5 +1,3 @@
-//Andrew Palmer 1228231669
-
 #include <iostream>
 #include <iomanip>
 #include <cstdio>

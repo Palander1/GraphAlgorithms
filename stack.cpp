@@ -1,5 +1,3 @@
-//Andrew Palmer 1228231669
-
 #include "stack.h"
 #include <iostream>
 

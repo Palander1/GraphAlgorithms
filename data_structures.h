@@ -1,5 +1,3 @@
-//Andrew Palmer 1228231669
-
 #ifndef DATA_STRUCTURES_H
 #define DATA_STRUCTURES_H
 

@@ -1,5 +1,3 @@
-//Andrew Palmer 1228231669
-
 #ifndef HEAP_H
 #define HEAP_H
 

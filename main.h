@@ -1,5 +1,3 @@
-//Andrew Palmer 1228231669
-
 #ifndef MAIN_H
 #define MAIN_H
 

@@ -1,5 +1,3 @@
-//Andrew Palmer 1228231669
-
 #ifndef STACK_H
 #define STACK_H
 
