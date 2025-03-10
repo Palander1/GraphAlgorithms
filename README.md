@@ -1,4 +1,4 @@
-# Graph Algorithms Project
+# Graph Operations
 
 A C++ project implementing Dijkstra's algorithm using custom data structures (graph, min-heap, and stack). Uses g++ compilation.
 
@@ -31,3 +31,11 @@ First line:
 
 Each subsequent line:
     &lt;EdgeIndex&gt; &lt;VertexU&gt; &lt;VertexV&gt; &lt;Weight&gt;
+
+## Available Commands:
+- Stop: Terminates the program.
+- PrintADJ: Prints the adjacency list of the graph.
+- SinglePair: Computes and prints the shortest path from a source vertex to a destination vertex.
+- SingleSource: Computes and prints shortest paths from a single source to all reachable vertices.
+- PrintLength: Prints the length of the shortest path between two vertices.
+- PrintPath: Prints the actual shortest path between two vertices.
