@@ -18,7 +18,7 @@ make
 
 ## Usage
 
-./PJ3 INPUT_FILE GRAPH_TYPE FLAG
+./PJ3 &lt;INPUT_FILE&gt; &lt;GRAPH_TYPE&gt; &lt;FLAG&gt;
 
     <InputFile> = Path to the graph data file
     <GraphType> = "DirectedGraph" or "UndirectedGraph"
@@ -27,7 +27,7 @@ make
 ## Input File Format
 
 First line: 
-    numVertices numEdges
+    &lt;numVertices&gt; &lt;numEdges&gt;
 
 Each subsequent line:
-    EdgeIndex VertexU VertexV Weight
+    &lt;EdgeIndex&gt; &lt;VertexU&gt; &lt;VertexV&gt; &lt;Weight&gt;
