@@ -64,7 +64,7 @@ Vertex 0 → Vertex 4: 6
 
 ## Technologies Used
 
-- **C++** (with STL for graph structures)
+- **C++**
 - **Custom Data Structures** (Adjacency List, Min-Heap, Stack)
 - **g++ Compilation** with Makefile
 
